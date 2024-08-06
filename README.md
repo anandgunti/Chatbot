@@ -1,3 +1,10 @@
+
+Recording of ChatBot
+
+https://github.com/user-attachments/assets/8d9452de-01dd-4472-9375-d6e87b960ed8
+
+
+
 Recommended Project structure :
   
 <img width="181" alt="project_struct" src="https://github.com/user-attachments/assets/ff8b34bf-98ba-4c74-beba-1a0f27830d7d">
