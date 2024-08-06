@@ -6,14 +6,24 @@ Recommended Project structure :
 
 
 •	It will open on Port 8001 
-//
+
 
 •	Enter the Login Details :  Username: user@example.com    Password: Secret
+
+
 •	Once Authenticated it redirect to chatbot on Port 8000
+
+
 Note:  .env file should have openai_apikey , assistant_id  and Api_key (For Authentication)
 
 API Endpoints
+
+
 •	POST /token: Authenticate a user and obtain a JWT token. Set the token in a cookie for secure access.
+
+
 •	GET /: Displays the login page.
+
+
 •	WebSocket /ws/{thread_id}: Establish a WebSocket connection for real-time interaction.
 
